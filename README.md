@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-modanwal-311252264/)
 
 
- 🌱 I'm currently learning Data Scientist and Machine Learning
+ 🌱 I'm currently learning Data Science and Machine Learning
 
 ### ⚙️ Tech Stack
 
